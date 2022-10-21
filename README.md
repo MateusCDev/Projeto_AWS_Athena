@@ -1,5 +1,5 @@
-# dio-live-athena
-Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
+# Projeto DIO AWS_Athena
+Repositório para fins didaticos sobre os serviços: Athena, S3, GLue e Quicksight
 
 ### Serviços utilizados nessa atividade prática
  - Amazon S3
